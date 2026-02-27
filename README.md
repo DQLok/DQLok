@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LokDQ</h1>
-<h3 align="center">A passionate backend - mobile developer from Vietnam</h3>
+<h3 align="center">A passionate mobile developer - backend from Vietnam</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
