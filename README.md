@@ -61,6 +61,11 @@
 
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
 
 ## 📱 Danh sách Mini App
 Các ứng dụng được thiết kế nhằm mang lại sự tiện lợi, giải quyết các nhu cầu thường ngày nhanh chóng trực tiếp trên nền tảng Zalo.
@@ -70,10 +75,4 @@ Các ứng dụng được thiết kế nhằm mang lại sự tiện lợi, gi�
 | [**Random Picker - LokDQ**](https://zalo.me/s/1516033360579317275) | `1516033360579317275` | Quay số, bốc thăm ngẫu nhiên & đưa ra quyết định nhanh | Hoạt động |
 | [**Daily Food - LokDQ**](https://zalo.me/s/367545130607154173) | `367545130607154173` | Gợi ý món ăn hàng ngày & hỗ trợ chọn thực đơn | Hoạt động |
 | [**WePlan-LokDQ**](https://zalo.me/s/1599413094155518304) | `1599413094155518304` | Sắp xếp lịch trình & quản lý kế hoạch cá nhân / nhóm | Hoạt động |
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-
 </p>
